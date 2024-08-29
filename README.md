@@ -1,1 +1,1 @@
-# -CineScope-Exploring-MovieLens-Data-Through-Visual-Analytics-
+# CineScope: Exploring MovieLens Data Through Visual Analytics
